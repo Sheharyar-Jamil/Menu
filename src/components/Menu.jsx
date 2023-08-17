@@ -11,8 +11,7 @@ const Menu = (props) => {
                 </header>
                 <p className="item-text">{props.desc}</p>
             </div>
-        </article>
-        
+        </article>        
     );
 };
 
